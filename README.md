@@ -11,9 +11,9 @@ It is intended solely for educational and research purposes.
 
 ## ✨ DONATE Buy Me Coffee
 
-    BTC - 
-    LTC - 
-    TRX - 
+    BTC - bc1qsztttz2m2465jtvda9qr3a9vl7jdgy8p7pm2e8
+    LTC - ltc1qqsr4m7xp0n06d5lux0zjfvxj6kef8fzjhk0055
+    TRX - TX9MSd6GSN9cY5CyzsFskQWXNdomxErnQ2
     ETH - 
     USDT ERC20 - 
     USDT BEP20 - 
